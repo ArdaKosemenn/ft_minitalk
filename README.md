@@ -1,0 +1,2 @@
+# ft_minitalk
+Ecole 42'deki "minitalk" projesi, iletişim uygulamalarını geliştirmeyi amaçlayan bir C programlama ödevini içerir. İki ayrı süreç arasında sinyal iletişimi kullanarak bir sunucu ve bir istemci oluşturmanız gerekmektedir. Bu, öğrencilere düşük seviyeli soket programlaması ve işlem iletişimi konularında deneyim kazandırır. Sunucu ve istemci, metin iletişimini etkileşimli bir şekilde sağlayarak basit bir iletişim protokolü oluşturur. Proje, öğrencilere C programlama ve sistem programlama becerilerini geliştirmeleri için mükemmel bir fırsat sunar.
